@@ -21,4 +21,7 @@
 
 
 
+--> Place your API key .env file
+
+
 --> Run app.py 
